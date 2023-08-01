@@ -1,0 +1,37 @@
+*{
+    padding: 15px;
+   
+}
+body{ 
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(129, 87, 220);
+}
+
+#ipfield{
+    width: 250px;
+    text-align: right;
+    border-radius: 30px;
+    vertical-align: middle;
+    border: 2px rgb(25, 13, 163);
+    font-size: 20px;
+}
+#enter{background-color: rgb(102, 91, 125);
+    border: 2px rgb(242, 238, 238);
+    border-radius: 20px;
+    font-size: 20px;
+}
+.cont{
+  width: 360px;
+ 
+    
+}
+.paragraph-styling{
+margin: 0px;
+cursor: pointer;
+font-size: 20px;
+}
+h4{
+    border-style: solid;
+}
